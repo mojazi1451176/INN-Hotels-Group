@@ -4,7 +4,7 @@ With the rise of online booking platforms, hotels face an increasing rate of boo
 
 INN Hotels Group, a hotel chain based in Portugal, approached us to build a predictive model that could help identify potential cancellations in advance and implement proactive strategies to reduce associated losses.
 
-🎯 Objective
+🎯 Objective"
 Analyze booking data to identify key factors influencing cancellations.
 
 Build a machine learning model to predict which bookings are likely to be canceled.
